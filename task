@@ -1,3 +1,4 @@
+%%主程序%%
 f = imread('testA.jpg');
  
 % 设置参数
